@@ -15,7 +15,7 @@ export default function About(){
             </div>
 
             <div className="w-full lg:w-[573px] h-auto flex flex-col items-start py-6 lg:py-16 px4 lg:px-8 gap-8">
-                <h5 className="text-[16px] font-[700] text-[#BDBDBD]">AUTUNM 2025</h5>
+               
                 <h2 className="text-white/75 text-[30px] lg:text-[40px] font-[700] w-full lg:w-[450px]">
                 About the Collection</h2>
                 <h4 className="text-[#737373] text-[16px] lg:text-[20px] font-[400]">I,m a paragraph. Click here to add your own text and edit me. It,s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.
