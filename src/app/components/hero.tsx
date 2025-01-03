@@ -16,10 +16,6 @@ export default function HeroSection() {
       </div>
 
       <div className="relative w-[90%] md:w-[70%] lg:w-[551px] h-auto text-center gap-[20px] md:gap-[35px] flex flex-col items-center md:items-start px-4 lg:px-0 mr-52">
-     
-        <h5 className="text-[#FFFFFF] text-[12px] sm:text-[14px] md:text-[16px] font-[700]">
-          AUTUNM 2025
-        </h5>
         <h1 className="text-[28px] sm:text-[36px] md:text-[48px] font-[700] leading-tight whitespace-normal md:whitespace-nowrap mb-4">
         ANNA STONE & NK,s 
         </h1>
